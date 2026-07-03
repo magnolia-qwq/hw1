@@ -25,6 +25,6 @@
 - result  
   - [result_singletarget.png](./result/result_singletarget.png)  
     *GA_singletarget.m 运行收敛曲线*  
-  - [result_Pareto.png](./result/result_Pareto.png)
-    *main.m 运行帕累托前沿*
+  - [result_Pareto.png](./result/result_Pareto.png)  
+    *main.m 运行帕累托前沿*  
 
